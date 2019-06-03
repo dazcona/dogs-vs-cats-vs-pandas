@@ -1,6 +1,6 @@
-# Dogs vs Cats
+# Dogs vs Cats vs Panda
 
-Classification model to distinguishing images of dogs vs cats vs pandas.
+Classification model to distinguishing images of dogs 🐶 vs cats 🐱 vs pandas 🐼
 
 Dog             |  Cat             |  Panda
 :-------------------------:|:-------------------------:|:-------------------------:
