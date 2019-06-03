@@ -2,7 +2,7 @@ version: '2.3'
 
 services:
 
-  my_container:
+  ml_container:
     image: ml_image
     container_name: ml_container
     working_dir: /data

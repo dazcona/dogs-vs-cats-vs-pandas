@@ -1,5 +1,3 @@
-env:
-	source env/bin/activate
 run:
 	@docker-compose up -d --build
 dev:
